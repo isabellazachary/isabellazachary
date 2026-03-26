@@ -1,6 +1,6 @@
 # Hi 👋 I'm Isabella
 
-Working on Pulse — an app designed for students to learn, read, and connect with teachers.
+Working on Pulse an app designed for students to learn, read, and connect with teachers.
 
 ---
 
