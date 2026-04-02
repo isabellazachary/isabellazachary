@@ -1,53 +1,67 @@
-# Hi 👋 I'm Isabella
+# Hi 👋 I'm Isabella (Zainab Zachary)
 
-Working on Pulse an app designed for students to learn, read, and connect with teachers.
+I'm a passionate developer building **Pulse** — a calm, focused study companion for students and teachers.
 
 ---
 
 ## 🚀 About Me
 
-I enjoy creating real products that solve problems.  
-Right now, I’m focused on building something meaningful in education and improving how students and teachers connect.
+I love creating real, meaningful products that solve actual problems.  
+Right now, I'm deeply focused on education technology — making learning more consistent, calm, and connected for both students and tutors.
 
 ---
 
-## 🧠 What I’m Working On
+## 🧠 Current Project — Pulse
 
-**Pulse**  
-An app where:
-- Students can learn and read  
-- Teachers can connect with students  
-- Students and teachers can interact and teach each other  
+**Pulse** is an AI-powered mobile study companion for iOS and Android.
 
----
+### Live Demos:
+- **[Pulse — Study Smarter](https://build-with-pulse.netlify.app/)**  
+  (Current main project)
 
-## 💻 Projects
-
-- 🚀 Space Dodger Game (Unity, C#)  
-- 🌐 Website projects  
-- 📱 App development using React, Ionic, and Swift  
+- **[Spendwise — Expense Tracker](https://spendwise-expensetrackerr.netlify.app/)**  
+  (Another recent project)
 
 ---
 
-## 🛠 Tech Stack
+## ✨ What Pulse Offers
 
-- React  
-- Ionic  
-- Swift  
-- JavaScript  
-- C#  
+- **For Students**: Focus sprints, AI summaries, streaks, memory drops, and calm study sessions.
+- **For Teachers**: Clean workspace for session notes, bookings, progress tracking, and student communication.
+- One unified, premium experience across devices.
+
+---
+
+## 💻 Tech Stack
+
+- React + Vite
+- JavaScript / TypeScript
+- Tailwind / Custom CSS
+- Mobile-first design
+- Netlify (deployment)
+
+---
+
+## 🛠 Other Projects
+
+- **Space Dodger** – Unity game built with C#
+- Various web and mobile applications using React, Ionic, and Swift
 
 ---
 
 ## 🎯 Goals
 
-- Build impactful products in education  
-- Improve user experience and app design  
-- Work on real-world ideas and bring them to life  
+- Build impactful tools in the education space
+- Create calm, intuitive user experiences
+- Turn ideas into polished, real-world products
 
 ---
 
-## 📫 Connect
+## 📫 Let's Connect
 
-- GitHub: https://github.com/isabellazachary
-- Linkedln: https://linkedin.com/in/zainab-zachary-929b161a6/
+- **GitHub**: [github.com/isabellazachary](https://github.com/isabellazachary)
+- **LinkedIn**: [linkedin.com/in/zainab-zachary-929b161a6](https://linkedin.com/in/zainab-zachary-929b161a6/)
+
+---
+
+⭐ Feel free to explore the repositories and reach out if you're interested in Pulse or collaboration!
