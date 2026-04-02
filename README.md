@@ -1,13 +1,13 @@
 # Hi 👋 I'm Isabella (Zainab Zachary)
 
-I'm a passionate developer building **Pulse** — a calm, focused study companion for students and teachers.
+I'm a passionate developer building **Pulse** (https://build-with-pulse.netlify.app/) a calm, focused study companion for students and teachers.
 
 ---
 
 ## 🚀 About Me
 
 I love creating real, meaningful products that solve actual problems.  
-Right now, I'm deeply focused on education technology — making learning more consistent, calm, and connected for both students and tutors.
+Right now, I'm deeply focused on education technology, making learning more consistent, calm, and connected for both students and tutors.
 
 ---
 
