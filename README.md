@@ -19,7 +19,7 @@ Right now, I'm deeply focused on education technology, making learning more cons
 - **[Pulse — Study Smarter](https://build-with-pulse.netlify.app/)**  
   (Current main project)
 
-- **[Spendwise — Expense Tracker](https://spendwise-expensetrackerr.netlify.app/)**  
+- **[Spendwise — Expense Tracker](https://spendwise-zayyn.vercel.app/)**  
   (Another recent project)
 
 ---
